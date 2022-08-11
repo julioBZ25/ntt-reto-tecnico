@@ -1,0 +1,35 @@
+.tableContainer {
+  border: 1px solid white;
+  font-weight: bold;
+}
+.tableContainer tr{
+  height: 54px;
+  text-align: center;
+}
+.tableContainer tr:first-child{
+  height: auto;
+  color: white;
+}
+.tableContainer tr td:last-child{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tableContainer img{
+  border-radius: 50%;
+}
+.tableContainer td{
+  width: 100px;
+}
+.tableContainer tr:nth-child(even){
+  background-color: #b6c7e7;
+}
+.tableContainer tr:nth-child(odd){
+  background-color: #dae1f2;
+}
+.tableContainer tr:nth-child(1){
+  background-color: #4976c5;
+}
+.rowEmail {
+  text-align: left;
+}
