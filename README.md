@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Before start the server, you need to run: 
+Before starting the server, you need to run: 
 
 ### `npm install`
 
